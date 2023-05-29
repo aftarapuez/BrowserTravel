@@ -1,2 +1,2 @@
-# BrowserTravel
-Humedad de diferentes ciudades
+para arrancar proyectpo ejecutar en terminal 
+ng serve
