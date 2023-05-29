@@ -1,3 +1,3 @@
-para arrancar proyectpo ejecutar en terminal:
+para arrancar proyecto, ejecutar en la terminal:
 
 ng serve
